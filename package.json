@@ -1,0 +1,25 @@
+{
+  "author": "Amine Mouafik <amine@mouafik.fr>",
+  "name": "linnworks",
+  "description": "SDK to communicate with the Linnworks API.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/continuous-software/node-linnworks.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "linnworks"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "soap": "^0.5.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.20.1",
+    "should": "~4.0.4"
+  }
+}
