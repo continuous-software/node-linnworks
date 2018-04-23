@@ -4,4 +4,6 @@
 
 ## Installation ##
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/continuous-software/node-linnworks.svg)](https://greenkeeper.io/)
+
     npm install -s linnworks
